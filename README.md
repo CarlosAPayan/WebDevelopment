@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XxStyleS2xX
 - 👀 I’m interested in sports and programming
-- 🌱 I’m currently learning programming tools
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning machine learning algorithms
+- 💞️ I’m looking to collaborate on Data Science and IA
 - 📫 How to reach me ...
 
 <!---
